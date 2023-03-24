@@ -4,7 +4,7 @@ Play Hangman with vampires!
 
 ![](fangman.png)
 
-## 💻 Made With
+## 💻 Built With
 
 - HTML5
 - CSS3
