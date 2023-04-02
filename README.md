@@ -1,8 +1,10 @@
+<div align="center">
+  <img src="fangman.png" align="center" />
+</div>
+
 # Fangman
 
 Play Hangman with vampires!
-
-![](fangman.png)
 
 ## 💻 Built With
 
